@@ -1,0 +1,2 @@
+# TIME-SERIES-DATA-EXAMPLE.-Visualizing-Seattle-Bicycle-Counts-on-Seattle-s-Fremont-Bridge.
+As a more involved example of working with some time series data, let’s take a look at bicycle counts on Seattle’s Fremont Bridge. This data comes from an automated bicycle counter, installed in late 2012, which has inductive sensors on the east and west sidewalks of the bridge. The hourly bicycle counts can be downloaded from https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k; here is the direct link to the dataset. 
